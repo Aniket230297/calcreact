@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/calcreact/static/css/main.317938ba.css",
+    "main.js": "/calcreact/static/js/main.4178fae5.js",
+    "static/js/787.c12929f5.chunk.js": "/calcreact/static/js/787.c12929f5.chunk.js",
+    "index.html": "/calcreact/index.html",
+    "main.317938ba.css.map": "/calcreact/static/css/main.317938ba.css.map",
+    "main.4178fae5.js.map": "/calcreact/static/js/main.4178fae5.js.map",
+    "787.c12929f5.chunk.js.map": "/calcreact/static/js/787.c12929f5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.317938ba.css",
+    "static/js/main.4178fae5.js"
+  ]
+}
